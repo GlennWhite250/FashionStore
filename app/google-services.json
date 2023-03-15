@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555338212984",
+    "project_id": "fashionapp-7422f",
+    "storage_bucket": "fashionapp-7422f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555338212984:android:775ac8d181d59509c12f8d",
+        "android_client_info": {
+          "package_name": "com.cyberwalker.fashionstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555338212984-om1iq45m9v20i4i4517d5brrfbvrrnqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0pa_Up8m95osv_0ACaKp0Tsj3DH5sWog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555338212984-om1iq45m9v20i4i4517d5brrfbvrrnqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
